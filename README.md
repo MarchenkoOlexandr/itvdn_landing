@@ -22,5 +22,17 @@
 
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле 
 packege.json, а также все их зависимости# ITVDN_LANDING
-# ITVDN_LANDING
-# ITVDN_LANDING
+## Домашнее задание
+1. Git
+- git status
+- git add
+- git commit -m "some comment"
+- git push
+- git branch
+- git checkout
+- git merge
+
+2. Gulp
+- Попрактиковаться с установкой галпа и его пакетов
+- autoprefixer и sourcemaps Разобраться что это и установить в проект
+

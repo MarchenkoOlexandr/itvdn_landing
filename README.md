@@ -18,7 +18,7 @@
 
 ## Инструкция для старта проекта:
 * Склонировать данный репозиторий
-> git clone https://github.com/sergeyamator/itvdn-landing.git 
+> git clone https://github.com/OlexandrMarchenko/ITVDN_LANDING.git
 
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле 
-packege.json, а также все их зависимости
+packege.json, а также все их зависимости# ITVDN_LANDING
